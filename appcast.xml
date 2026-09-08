@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DmxUtilities</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 08 Sep 2026 10:50:17 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities-1.0.0.zip" length="5752109" type="application/octet-stream" sparkle:edSignature="b9cS3vKUWIKM6AJf8f4rVDKlKMttYjPZgMoSKzqnKb7gMPJCWxpv4LHk6pP28z0UnMpMxtk2wcph5kGoAFqFBQ=="/>
+        </item>
+    </channel>
+</rss>
