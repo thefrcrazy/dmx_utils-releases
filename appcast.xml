@@ -3,13 +3,13 @@
     <channel>
         <title>DmxUtilities</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Tue, 08 Sep 2026 13:51:59 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Tue, 08 Sep 2026 14:19:04 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities-1.0.1.zip" length="5762445" type="application/octet-stream" sparkle:edSignature="aUeXrtHmNFjHKLzjk+u3inblWw1VMCe0VTMWKanL572riF7YdZYIctgyHEPh9690ZgGktxcXsknZTfOuN642Dw=="/>
+            <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities-1.0.2.zip" length="4967177" type="application/octet-stream" sparkle:edSignature="+VZBPhE4OFDETVHMYRLZhpkLleYDzoo8RFa62hA0G4jkR4/fdZzmCeox22Ac6VFTI2QqD5M+mN3vjYBxrk8fBQ=="/>
         </item>
     </channel>
 </rss>
