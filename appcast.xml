@@ -3,6 +3,22 @@
     <channel>
         <title>DmxUtilities</title>
         <item>
+            <title>1.6.1</title>
+            <pubDate>Thu, 10 Sep 2026 19:47:21 +0200</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities-1.6.1.zip" length="5681787" type="application/octet-stream" sparkle:edSignature="w2TTH7hNVCpKzXm+gHZXV0hE5VXaOaADHTutcak3iBsBhtU6M52ac3UzxC9K0eT5z8iGb2RRpfurTrzRwpjpDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities30-29.delta" sparkle:deltaFrom="29" length="212534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R9lakHjBv79x9DuMnD2FApKZLPhRWLtKbHUWDVkBS/XAOSCUy0GGqQFln/H1l6DTKSGqUokVaLffMt11DrJUDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities30-28.delta" sparkle:deltaFrom="28" length="318986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZeIJ8NVNa+Q2sw5ZZhAquyW33gv2acn8akBQ00C0b7NknJuSosfPEsehNr0NpayNwwBkQ+9Q0eWwX9nKcnFiBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities30-27.delta" sparkle:deltaFrom="27" length="341086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XbIPr3BnaJlGpLTV3VxT/JyUUTTFPvc8qzZkwDnTOUJjdlZoB5Rc8WN1mTyF/NRDTszKdvGNM9RGUIZ6Tl2DBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities30-26.delta" sparkle:deltaFrom="26" length="355702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DVGtkEFfPFYIVr7SnfZwHb4wETaHLW423DM6qlD+dUqrwYSy3z5yVpFecOrBfN8l4W0bGnuSM+Hh1UVh2IXpAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities30-25.delta" sparkle:deltaFrom="25" length="384738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jZVFxVFohp1TvfpKmdRrMcbxZwXFVCZmjlZ84od1OmFhBDl4LAjNN2giBmUXEQuYlEDJamQoqjc58rjXNmeSDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Thu, 10 Sep 2026 17:32:02 +0200</pubDate>
             <sparkle:version>29</sparkle:version>
@@ -31,22 +47,6 @@
                 <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities28-25.delta" sparkle:deltaFrom="25" length="292894" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hIsn12SSVYsGj2Ux5YpnY9yuf3+0+3LBecB7UiPeRkqT+tiIMREGWRt71xuBEjF7+hzl6a538vidFC8tEWVeBQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities28-24.delta" sparkle:deltaFrom="24" length="365978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zNcBwrF86cSvxeuZGZ15jKYbRUc+PsOpZGgSV5pH6Kzibf1bUKna8yThrtExvOANLYVzcy5Riz39q2NaZ5E7Aw=="/>
                 <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities28-23.delta" sparkle:deltaFrom="23" length="371682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9ojkNh57Z7zMdEL0PBLVBXG4clCeJlaBupEXS7cahUzQt+nYb+TENrOipnTDET3sOEBchHKD+88ex/2zqsVICA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.5.2</title>
-            <pubDate>Thu, 10 Sep 2026 15:38:01 +0200</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities-1.5.2.zip" length="5655553" type="application/octet-stream" sparkle:edSignature="mv49VHwyWAHRueVzAxN8+zo1YTeafVqN068KMBQflNt6RCR9KlFDEVana6Qe1M1tIzJruxUmRfvjvvJc7ZRxDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities27-26.delta" sparkle:deltaFrom="26" length="219370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UZLcEl3+dwJindthb1mvSVuDmWiZp9m0/fdgSRNOLC2/GI1jc1RAlPMnmNRZp1wxQcl/pA+BGK/etLo/NLQ4Dw=="/>
-                <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities27-25.delta" sparkle:deltaFrom="25" length="277978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NDZ8BHntW4NOdabQGOAaAKeajVWEBwdGwlPdg9Giv9Vv3T+RDEiknNSVClrkX8L6tpCtBiyMVZfXlaUH1hguAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities27-24.delta" sparkle:deltaFrom="24" length="356190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RL6R6BNPESIFTUzpwg5GcaC50+ovtvNiit0yE3PubJarX0hugceCBjDmUaOFwDyaLMGL9DYMN6/gl28RAo8iDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities27-23.delta" sparkle:deltaFrom="23" length="356766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zQt4PIN4ZSqRGH7lcmnN3ka8BQg7gsu8Rm/3IOYNRklfJS9MMJMK5Md8PhL8mtv8C8F5XzWeAuPseNw5LS6YCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/thefrcrazy/dmx_utils-releases/main/releases/DmxUtilities27-22.delta" sparkle:deltaFrom="22" length="406558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Sv4ZbQFJCE4qDXNWA50y9O/9OCvDQJz+of1TMwRrYkbsMl3OdiucPmq6XXsjG6lMm6Rd4ZMc+CwhNJCQSVgyBg=="/>
             </sparkle:deltas>
         </item>
     </channel>
